@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vineetvyas7/vineet/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/vineetvyas7/vineet/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vineetvyas7/vineet/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vineetvyas7/vineet/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
